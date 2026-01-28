@@ -9,5 +9,3 @@ Sistemas Planetarios y Astrobiología.
 - Análisis de presión atmosférica
 - Comparación estacional (4 soles representativos)
 
-## Reproducibilidad
-El notebook puede ejecutarse directamente en Google Colab.
